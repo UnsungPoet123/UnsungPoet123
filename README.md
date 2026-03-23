@@ -66,7 +66,7 @@ Captures and analyzes network packets to understand traffic flow and protocols.
 
 ## 📫 Connect With Me
 - 📧 Email: apomahjohn7@gmail.com  
-- 💼 LinkedIn: (Add your LinkedIn link here)  
+- 💼 LinkedIn: (www.linkedin.com/in/john-apomah-b74799333)  
 
 ---
 
